@@ -72,5 +72,4 @@ def calculate_demographic_data(print_data=True):
         'highest_earning_country_percentage':
         highest_earning_country_percentage,
         'top_IN_occupation': top_IN_occupation
-        
     }
